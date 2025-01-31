@@ -1,8 +1,8 @@
-# williano.github.io
+# amartinezbrito1.github.io
 My portfolio webiste with all the relevant information about me.
 
 
-[Demo](https://williano.github.io/)
+[Demo](https://amartinezbrito1.github.io/)
 
 
 ## Table of contents
@@ -76,7 +76,7 @@ This project was to improve my online presence.
 
 
 ## Contact
-Created by [Williano](https://williano.github.io/) - feel free to contact me!
+Created by [Williano](https://amartinezbrito1.github.io/) - feel free to contact me!
 
 ## License
 >You can check out the full license [here](https://github.com/Williano/williano.github.io/blob/master/LICENSE.md)
