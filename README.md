@@ -23,7 +23,7 @@ My portfolio webiste with work and volunteer experience, projects, education his
 
 ## Screenshots
 
-![Screenshot_2020-05-27 William Kpabitey Kwabla - Sofware Engineer](https://user-images.githubusercontent.com/19711677/83099417-eceea480-a072-11ea-96a6-0dc577eabfe2.png)
+![Abraham Martinez -  Software Engineer.png](https://github.com/amartinezbrito1/amartinezbrito1.github.io/blob/main/assets/images/Abraham%20Martinez%20-%20%20Software%20Engineer.png)
   
 ## Features
 
