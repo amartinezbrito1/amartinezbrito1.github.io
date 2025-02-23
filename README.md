@@ -23,8 +23,8 @@ My portfolio webiste with work and volunteer experience, projects, education his
 
 ## Screenshots
 
-![Abraham Martinez -  Software Engineer.png](https://github.com/amartinezbrito1/amartinezbrito1.github.io/blob/main/assets/images/Abraham%20Martinez%20-%20%20Software%20Engineer.png)
-  
+![Abraham Martinez - Software Engineer.png](https://github.com/amartinezbrito1/amartinezbrito1.github.io/blob/main/assets/images/Abraham%20Martinez%20-%20Software%20Engineer.png)
+
 ## Features
 
 * About Me
