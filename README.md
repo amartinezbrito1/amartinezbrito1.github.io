@@ -60,7 +60,7 @@ To run this app, you will need to follow these 3 steps:
 ##### 3. Set up and run the website from your browser:
   ```
   # Clone this repository
-  $ git clone https://github.com/Williano/williano.github.io.git
+  $ git clone https://github.com/amartinezbrito1/amartinezbrito1.github.io.git
 
   # Go into the directory 
 
@@ -76,16 +76,16 @@ This project was to improve my online presence.
 
 
 ## Contact
-Created by [Williano](https://amartinezbrito1.github.io/) - feel free to contact me!
+Created by [amartinezbrito1](https://amartinezbrito1.github.io/) - feel free to contact me!
 
 ## License
->You can check out the full license [here](https://github.com/Williano/williano.github.io/blob/master/LICENSE.md)
+>You can check out the full license [here](https://github.com/amartinezbrito1/amartinezbrito1.github.io/blob/master/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
 
 ## Contributing
 
-1. Fork it (<https://github.com/Williano/williano.github.io>)
+1. Fork it (<https://github.com/amartinezbrito1/amartinezbrito1.github.io>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
